@@ -10,9 +10,9 @@ These plugins extend the features of Crustulum. I may make a feature request tha
 ## How To Use
 To use a plugin simply run the following in the developer console (make sure to update the name):
 ```javascript
-(function () {Game.LoadMod('https://cdn.jsdelivr.net/gh/Ancyker/Crustulum/Plugins/name.CrustulumPlugin.js')}());
+(function () {Game.LoadMod('https://raw.githubusercontent.com/aj16789/CC/main/Crustulum%20Plugins/name.CrustulumPlugin.js')}());
 ```
 Or you can use this bookmarklet:
 ```javascript
-javascript:(function () {Game.LoadMod('https://cdn.jsdelivr.net/gh/Ancyker/Crustulum/Plugins/name.CrustulumPlugin.js')}());
+javascript:(function () {Game.LoadMod('https://raw.githubusercontent.com/aj16789/CC/main/Crustulum%20Plugins/name.CrustulumPlugin.js')}());
 ```
